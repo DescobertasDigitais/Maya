@@ -1,5 +1,5 @@
 # Bem-vindo ao projeto Maya! 🤖
-![gif](https://files.catbox.moe/3gcy18.gif)
+![banner](https://files.catbox.moe/ky95r5.png)
 
 # Resumo 📋
 
