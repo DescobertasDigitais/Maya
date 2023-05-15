@@ -20,7 +20,7 @@ parser = argparse.ArgumentParser(
     description="Gere dados de pessoas aleátorios para sua sock puppet."
 )
 parser.add_argument("--sexo", help="Especificar o gênero para ser gerado", choices=["M","H"], default="I")
-parser.add_argument("--idade", help="Especificar a idade", type=int, default=0, required=False)
+parser.add_argument("--idade", metavar="", help="Especificar a idade", type=int, default=0, required=False)
 
 args = parser.parse_args()
 
